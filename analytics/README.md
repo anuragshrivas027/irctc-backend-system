@@ -214,6 +214,18 @@ Swagger provides:
 
 ---
 
+Sample Test Credentials
+
+Admin:
+username: admin
+password: 12345
+
+User:
+username: testuser
+password: ****
+
+---
+
 ## Conclusion
 
 This project demonstrates backend architecture design, authentication and authorization handling, database modeling, transaction management, logging strategy, and analytics implementation using both relational and NoSQL databases.
